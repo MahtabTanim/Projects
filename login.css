@@ -1,0 +1,15 @@
+body{
+    
+    background : silver;
+}
+
+.login{
+    height: 400px;
+    background: url('/assets/images/login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    margin: 100px 25%;
+    border-radius: 10px ;
+    padding: 50px;
+}
